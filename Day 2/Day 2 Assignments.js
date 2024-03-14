@@ -2,7 +2,18 @@
 //App 7   -- Assignment 2
 //App 8   -- Assignment 3
 //App 9   -- Assignment 4
+/*
+Assignment 5
+What are the keys in react?  How to use the keys?	
 
+Keys are unique attritubes that help users to identify whether items are modified, added or removed when creating lists of elements or a collection of objects.
+
+Usage:
+let resultArray = coursesArray.map((item, index) =>
+	<tr  key={index}>
+			<td>{item}</td>
+	</tr>)
+*/
 
 import logo from './logo.svg';
 import './App.css';
