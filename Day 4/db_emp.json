@@ -1,0 +1,18 @@
+{
+  "emps": [
+    {
+      "empno": 101,
+      "ename": "Rahul",
+      "job": "Manager",
+      "sal": 10000,
+      "deptno": 1
+    },
+    {
+      "empno": 102,
+      "ename": "Tharun",
+      "job": "Deputy Manager",
+      "sal": 10000,
+      "deptno": 2
+    }
+  ]
+}
