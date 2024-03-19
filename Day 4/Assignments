@@ -1,0 +1,18 @@
+1.  Study the example that i shared (CRUD - JSON-Server - Depts)
+====> Refer Files --- Class Demo
+
+2.  Create a new react component  to do CRUD operations on  Employee  data.
+    a.  Use JSON-Server as a API Server 
+    b.  Create  db_empsData.json file  and Start the JSON-Server
+		empno, ename, job, sal, deptno 
+     c.   Create Data Service to perform all operations 
+     d.   Create a component to perform CRUD operations using data service
+====>  Refer Files -- EMP CRUD
+		
+3. How to send security token in axios get request
+====>  To send security tokes in an Axios GET request, we include it in the request headers
+       axios.get('security_token,{headers:{'Authorization':`Bearer ${token}`}})
+
+4. How to create class component in React JS?
+====>  A class component can be created using the class syntax in React.js
+       class MyClass extends MyComponent{...}
